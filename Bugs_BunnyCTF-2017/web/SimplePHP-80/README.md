@@ -14,6 +14,13 @@ source : [http://34.253.165.46/SimplePhp/index.txt](https://github.com/notdls/ct
 
 Author: TnMch
 
+__Useful Resources:__
+
+https://stackoverflow.com/questions/2715654/what-does-dollar-dollar-or-double-dollar-mean-in-php
+
+http://php.net/manual/en/language.variables.variable.php
+
+
 __Solution:__
 
 TBA
