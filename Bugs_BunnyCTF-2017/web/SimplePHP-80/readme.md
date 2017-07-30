@@ -1,13 +1,18 @@
-Bugs_BunnyCTF 2017
-Category - Web
+__Bugs\_BunnyCTF-2017__
 
-Description:
+__Category__ - Web | __Points__ - 80
+
+__Description__
 PHP for noobs :p ?
+
 Maybe not this time :D
 
 http://34.253.165.46/SimplePhp/index.php
-source : http://34.253.165.46/SimplePhp/index.txt
+
+source : [http://34.253.165.46/SimplePhp/index.txt](https://github.com/notdls/ctf-write-ups/blob/master/Bugs_BunnyCTF-2017/web/SimplePHP-80/flag.php)
 
 Author: TnMch
 
-Solution:
+__Solution:__
+
+TBA
