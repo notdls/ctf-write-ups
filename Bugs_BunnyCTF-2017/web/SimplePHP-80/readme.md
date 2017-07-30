@@ -2,7 +2,8 @@ __Bugs\_BunnyCTF-2017__
 
 __Category__ - Web | __Points__ - 80
 
-__Description__
+__Description:__
+
 PHP for noobs :p ?
 
 Maybe not this time :D
