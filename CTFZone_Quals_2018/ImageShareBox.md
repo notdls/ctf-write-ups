@@ -10,11 +10,11 @@ We created a new cool service that allows you to share your images with everyone
 https://img.ctf.bz/
 ```
 
-When visiting the page you're prompted to login with credentials or login via Dropbox, I didn't know any creds or see a sign-up page so I logged in using dropbox.
+When visiting the page, you're prompted to login with credentials or login via Dropbox, I didn't know any creds or see a sign-up page so I logged in using dropbox.
 
 After logging in with Dropbox the App will create a folder inside your Dropbox account where you can put images to select to upload.
 
-Reading the description has one important hint “The only thing you need to share something is an Image Description!”, this immediatley stood out to me as something to do with Exif data especially because it was limited to jpg/jpeg files. 
+Reading the description has one important hint “The only thing you need to share something is an Image Description!”, this immediately stood out to me as something to do with Exif data especially because it was limited to jpg/jpeg files. 
 
 So first things first, I tried to upload the standard jpg file which returned an error saying the image needed a description, next I opened up and Exif Data editor and set the image description to ``nunya'<test>"--#``, when uploading this we get prompted with a MySQL error encoded in Base64 which in plaintext says
 ```
